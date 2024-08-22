@@ -2,3 +2,5 @@ sample doc - introduction to git
 updated the file
 Update2
 Update3
+
+update of new branch
